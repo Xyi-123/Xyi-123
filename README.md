@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+**currently looking for job opportunities in Data Analytics, Business Intelligence, or related fields.**  
+📫 Feel free to reach out: [yxy13602807628@outlook.com](mailto:yxy13602807628@outlook.com)
 <!--
 **Xyi-123/Xyi-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
