@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=Xyi-123&show_icons=true&theme=merko"
+    srcset="https://github-readme-stats.vercel.app/api?username=Xyi-123&show_icons=true&theme=highcontrast"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Xyi-123&show_icons=true&theme=radical" />
 </picture>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xyi-123&repo=data-analytics-projects&theme=synthwave)](https://github.com/Xyi-123/data-analytics-projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xyi-123&repo=data-analytics-projects&theme=gruvbox)](https://github.com/Xyi-123/data-analytics-projects)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xyi-123&repo=powerBI-projects)](https://github.com/Xyi-123/powerBI-projects)
