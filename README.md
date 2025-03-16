@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 </picture>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xyi-123&repo=data-analytics-projects)](https://github.com/Xyi-123/data-analytics-projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xyi-123&repo=powerBI-projects)](https://github.com/Xyi-123/powerBI-projects)
