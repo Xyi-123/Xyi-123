@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xyi-123&repo=data-analytics-projects&theme=algolia)](https://github.com/Xyi-123/data-analytics-projects)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xyi-123&repo=powerBI-projects&theme=calm)](https://github.com/Xyi-123/powerBI-projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xyi-123&repo=data-analytics-projects&theme=solarized-light)](https://github.com/Xyi-123/data-analytics-projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xyi-123&repo=powerBI-projects&theme=default)](https://github.com/Xyi-123/powerBI-projects)
