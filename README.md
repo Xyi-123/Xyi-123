@@ -19,19 +19,16 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xyi-123&repo=data-analytics-projects&theme=solarized-light)](https://github.com/Xyi-123/data-analytics-projects)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xyi-123&repo=IT-midterm-project&theme=solarized-light)](https://github.com/Xyi-123/IT-midterm-project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xyi-123&repo=powerBI-projects&theme=solarized-light)](https://github.com/Xyi-123/powerBI-projects)
-<a href="https://github.com/Xyi-123/hulu-data-clustering">
-  <div style="display: inline-block; width: 45%; margin: 5px; padding: 10px; border-radius: 8px; background-color: #fff9db; border: 1px solid #e8e8e8;">
-    <h3 style="margin-top: 0;">
-      <img src="https://img.icons8.com/ios-filled/18/000000/film-reel.png" style="margin-right: 6px;" />
-      <a href="https://github.com/Xyi-123/hulu-data-clustering" style="color: #0366d6; text-decoration: none; font-weight: bold;">
-        hulu-data-clustering
-      </a>
+<div align="left" style="display: inline-block; width: 45%; background-color: #fdf6e3; border-radius: 10px; padding: 15px; margin: 10px;">
+  <a href="https://github.com/Xyi-123/hulu-data-clustering" style="text-decoration: none;">
+    <h3 style="margin: 0; color: #0366d6;">
+      📽️ hulu-data-clustering
     </h3>
-    <p style="color: #586069; font-size: 14px;">
-      Clustering analysis of Hulu's movie content based on metadata including release year, duration, and genre keywords. Includes interactive chart via HTML.
-    </p>
-    <p style="color: #586069; font-size: 12px;">
-      🔶 HTML (via Spyder)
-    </p>
-  </div>
-</a>
+  </a>
+  <p style="margin: 8px 0 4px 0; color: #586069;">
+    Clustering analysis of Hulu movie content using Python (via Spyder). Includes interactive visualization with Pyecharts + GitHub Pages.
+  </p>
+  <p style="color: #6c757d; font-size: 12px;">
+    🔸 HTML &nbsp; 🔹 Python Script
+  </p>
+</div>
