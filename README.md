@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xyi-123&repo=data-analytics-projects&theme=solarized-light)](https://github.com/Xyi-123/data-analytics-projects)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xyi-123&repo=IT-midterm-project&theme=solarized-light)](https://github.com/Xyi-123/IT-midterm-project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xyi-123&repo=powerBI-projects&theme=solarized-light)](https://github.com/Xyi-123/powerBI-projects)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xyi-123&repo=hulu-data-clustering&theme=solarized-light)](https://github.com/Xyi-123/hulu-data-clustering)
